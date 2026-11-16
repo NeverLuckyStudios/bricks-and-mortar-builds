@@ -1,2 +1,3 @@
-# bricks-and-mortar-builds
-Private test builds of Bricks &amp; Mortar (invite only)
+# Bricks & Mortar test builds
+
+Test builds of Bricks & Mortar by Never Lucky Studio. Download from Releases.
